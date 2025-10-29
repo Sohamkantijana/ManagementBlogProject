@@ -119,7 +119,7 @@ Add image preview before upload
 🧑‍💼 Author
 
 👨‍💻 Sohamkanti Jana
-📧 Email: [your-email@example.com
+📧 Email: [sohamkantijana@example.com
 ]
 💻 GitHub: Sohamkantijana
 
